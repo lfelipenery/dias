@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(143, 84, 143);
+    font: normal 18pt Arial;
+    font-family: 'Special Elite', cursive;
+
+
+}
+header {
+color: rgb(5, 5, 5);
+text-align:  center;
+
+}
+section {
+    background:rgba(255, 255, 255, 0.082);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.712);
+
+}
+Footer {
+    text-align:  center;
+    color: rgb(255, 254, 254);
+    font-style: oblique;
+
+}
